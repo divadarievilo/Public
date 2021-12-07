@@ -1,0 +1,1 @@
+[system.globalization.cultureinfo]::GetCultures("AllCultures")
