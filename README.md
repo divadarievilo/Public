@@ -3,11 +3,11 @@
 Please be advised of the efficiency of the code probably will not be the best. :)
 
 ## Languages found in this repository:
-- SQL
-- WQL
+- [SQL](https://github.com/divadarievilo/Public/tree/main/SQL)
+- [WQL](https://github.com/divadarievilo/Public/tree/main/WQL)
 - [Powershell](https://github.com/divadarievilo/Public/tree/main/Scripts/Powershell)
 - [CMD/Batch](https://github.com/divadarievilo/Public/tree/main/Scripts/CMD)
-- Python
+- [Python](https://github.com/divadarievilo/Public/tree/main/Python)
 - [Haskell](https://github.com/divadarievilo/Public/tree/main/Haskell)
 
 
