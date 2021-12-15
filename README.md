@@ -1,7 +1,5 @@
-## Public repository to share information about code/scripting.
-  ##### Please be advised of the efficiency of the code probably will not be the best.. yet.. :smile:
-  ##### I'm not a developer just trying to become one.
-  ##### Currently learning Python and Haskell.
+## Public repository to share code.
+  ##### Please be advised of the efficiency of the code probably will not be the best... yet... :smile: Currently learning...
 
 
 ## Coding/Scripting languages that can be found in this repository:
@@ -14,10 +12,9 @@
 
 
 ## Mini-Projects:
-  ### [Tic-Tac-Toe](https://github.com/divadarievilo/Public/tree/main/Projects/TicTacToe)
-  ### [Rock-Paper-Scissors](https://github.com/divadarievilo/Public/tree/main/Projects/RockPaperScissors)
-  
-  
-## Challanges:
-  ### [Advent of Code 2021 - Python](https://github.com/divadarievilo/Public/tree/main/Challenges/Advent-Of-Code/2021) 
+  - [Tic-Tac-Toe](https://github.com/divadarievilo/Public/tree/main/Projects/TicTacToe)
+  - [Rock-Paper-Scissors](https://github.com/divadarievilo/Public/tree/main/Projects/RockPaperScissors)
 
+
+## Challanges:
+  - [Advent of Code 2021 - Python](https://github.com/divadarievilo/Public/tree/main/Challenges/Advent-Of-Code/2021)
