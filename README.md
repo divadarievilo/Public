@@ -14,5 +14,10 @@
 
 
 ## Mini-Projects:
-  ### [Advent of Code 2021 - Python](https://github.com/divadarievilo/Public/tree/main/Projects/Advent-Of-Code/2021) 
+  ### [Tic-Tac-Toe](https://github.com/divadarievilo/Public/tree/main/Projects/TicTacToe)
+  ### [Rock-Paper-Scissors](https://github.com/divadarievilo/Public/tree/main/Projects/RockPaperScissors)
+  
+  
+## Challanges:
+  ### [Advent of Code 2021 - Python](https://github.com/divadarievilo/Public/tree/main/Challenges/Advent-Of-Code/2021) 
 
