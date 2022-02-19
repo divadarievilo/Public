@@ -1,0 +1,18 @@
+# Location to create this file: /etc/systemd/system/enode.service
+# Change <UserName> in "WorkingDirectory" or add a full path to the ergo folder installation.
+[Unit]
+Description=Ergo Node
+After=network.target
+
+[Service]
+Type=simple
+Restart=on-failure
+RestartSec=5
+User=root
+ExecStart=/bin/bash -l -c "exec /usr/local/sbin/enode.sh"
+WorkingDirectory=/home/<UserName>/ergo
+SyslogIdentifier=enode
+TimeoutStopSec=5
+
+[Install]
+WantedBy=multi-user.target
