@@ -7,3 +7,5 @@
 3 - Run in terminal:  sudo systemctl daemon-reload
 
 4 - Run in terminal:  sudo systemctl start enode.service
+
+5 - Follow logs (in terminal): sudo journalctl -u enode.service -f 
