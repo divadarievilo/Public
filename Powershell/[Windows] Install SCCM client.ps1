@@ -1,2 +1,0 @@
-# CCMSetup is part of the SCCM Client instalation (C:\Windows\CCMSetup) 
-.\ccmsetup.exe SMSSITECODE=XXX RESETKEYINFORMATION=TRUE FSP=XXXXXXXXXXXX SMSMP=XXXXXXXXXXXXXX

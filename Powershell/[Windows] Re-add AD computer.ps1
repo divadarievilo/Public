@@ -1,1 +1,0 @@
-Reset-ComputerMachinePassword -Server "XXXXXXX" -Credential XXXXXXX\XXXXXXXX

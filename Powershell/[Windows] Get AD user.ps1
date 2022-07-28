@@ -1,1 +1,0 @@
-Get-ADUser -Filter {name -like "*"} -Properties “LastLogonDate” -Server "XXXXXXXX" | where {$_.DistinguishedName -like "*OU=XXXX,DC=XXXX,DC=XX"} | Select UserPrincipalName, LastLogonDate | OGV
